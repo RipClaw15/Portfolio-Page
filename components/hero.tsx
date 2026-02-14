@@ -23,14 +23,18 @@ export function Hero() {
         </div>
 
         <h1 className="text-balance text-4xl font-bold tracking-tight sm:text-5xl lg:text-6xl">
-          Software Engineer{" "}
+          Full-Stack Engineer{" "}
           <span className="text-primary">/</span>{" "}
           Builder
         </h1>
 
         <p className="mx-auto mt-6 max-w-xl text-pretty text-lg leading-relaxed text-muted-foreground">
-          I ship MVPs that solve real problems. Focused on building,
-          learning fast, and turning ideas into working products.
+          I build modern web apps and tools with{" "}
+          <strong>Next.js, TypeScript, Tailwind CSS, Node.js</strong>, 
+          and deploy them on <strong>Vercel</strong>. 
+          I also have a strong foundation in <strong>Python, Django, C++, and C#</strong>, 
+          and real-world experience with <strong>Linux, AWS, and databases</strong>. 
+          I focus on shipping fast, learning continuously, and turning ideas into working products.
         </p>
 
         <div className="mt-10 flex flex-wrap items-center justify-center gap-4">
